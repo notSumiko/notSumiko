@@ -1,3 +1,5 @@
+<img src="notSumiko_github.jpg" width="100%">
+
 <h2> Hiii! ꉂ (≧ヮ≦) </h2>
 
 <p>
