@@ -9,6 +9,7 @@ name = "Sumiko"
 age = 15
 locale = "es-CL"
 drink = "tea ☕"
+hobbies = "code • games • music • drawing • anime"
 
 [langs]
 fav = "x86masm & C"
