@@ -1,6 +1,6 @@
 <img src="notSumikocats_github.png" width="100%">
 
-Haiii! I am Sumiko, a high school student who loves to program and mess with tech stuff :3
+Haiii! ꉂ (≧ヮ≦)  I am Sumiko, a high school student who loves to program and mess with tech stuff :3
 
 ```toml
 name = "Sumiko"
