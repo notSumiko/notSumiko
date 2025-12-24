@@ -1,4 +1,4 @@
-<img src="notSumiko_g1thub.jpg" width="100%">
+<img src="notSumikocats_github.png" width="100%">
 
 Haiii! I am Sumiko, a high school student who loves to program and mess with tech stuff :3
 
