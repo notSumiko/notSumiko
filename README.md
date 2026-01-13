@@ -6,7 +6,7 @@ Haiii! ꉂ (≧ヮ≦)  I am Sumiko, a high school student who loves to program 
 name = "Sumiko"
 
 [self]
-age = 15
+age = 16
 locale = "es-CL"
 drink = "tea ☕"
 hobbies = "code + games + music + drawing + anime"
