@@ -10,7 +10,7 @@ age = 16
 locale = "es-CL"
 drink = "tea ☕"
 hobbies = "code + games + music + drawing + anime"
-𓎟𓎟　𝒾  rlly love D with my whole heart ♡　𓎟𓎟
+♡ = "𝒾  rlly love my bf w my whole heart"
 
 [langs]
 fav = "x86masm & C"
